@@ -24,5 +24,5 @@ do_twice(print_twice, 'Spam')
 """
 Author: Varun Aggarwal
 Username: aggarw82
-Github: https://github.com/Environmental-Informatics/python-learning-the-basics-aggarw82/lab01
+Github: https://github.com/Environmental-Informatics/python-learning-the-basics-aggarw82
 """
